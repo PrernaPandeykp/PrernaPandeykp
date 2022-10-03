@@ -42,10 +42,13 @@ I am a Python developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaPandeykp)](https://github.com/PrernaPandeykp/github-readme-stats)
 
 ---
-![Prerna's github stats](https://github-readme-stats.vercel.app/api?username=PrernaPandeykp)
+<div >
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrernaPandeykp&layout=compact&theme=dark#gh-dark-mode-only">&nbsp;
+
+<img  height=200 src="https://github-readme-stats.vercel.app/api?username=PrernaPandeykp&layout=compact&show_icons=true&langs_count=10&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
+</div>
 
 
 <!--
