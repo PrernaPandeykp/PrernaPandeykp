@@ -23,6 +23,7 @@
 ### :woman_technologist: About Me :
 I am a Python developer.
 - I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- I have experience in ServiceNow as well and am CSA certified.
 - In my free time, I solve problems on Leetcode and partcipate in contests as well.
 
 
